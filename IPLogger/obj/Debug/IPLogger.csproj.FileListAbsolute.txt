@@ -1,0 +1,7 @@
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\bin\Debug\IPLogger.exe.config
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\bin\Debug\IPLogger.exe
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\bin\Debug\IPLogger.pdb
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\obj\Debug\IPLogger.csprojAssemblyReference.cache
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\obj\Debug\IPLogger.csproj.CoreCompileInputs.cache
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\obj\Debug\IPLogger.exe
+C:\Users\lildu\Desktop\IPLogger\IPLogger\IPLogger\obj\Debug\IPLogger.pdb
